@@ -11,3 +11,6 @@ El programa permite al usuario ingresar un texto o mensaje, el cual encripta ree
 'o' se convierte en 'ober'
 'u' se convierte en 'ufat'
 Además, es posible revertir el proceso para desencriptar el mensaje y copiar el resultado al portapapeles del navegador.
+
+![image](https://github.com/user-attachments/assets/d6c74527-c0a4-4421-b807-917bab286f79)
+
